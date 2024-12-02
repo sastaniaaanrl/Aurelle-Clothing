@@ -1,1 +1,3 @@
-A simple HTML/JS/CSS starter template
+aurelle-clothing-update.vercel.app
+Resources
+
