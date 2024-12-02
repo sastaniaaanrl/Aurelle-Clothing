@@ -1,2 +1,2 @@
-[UAS Sastania Nurul Islamiyah- Aurelle Clothing-]([aurelle-clothing-update.vercel.app])
+[UAS Sastania Nurul Islamiyah- Aurelle Clothing]([aurelle-clothing-update.vercel.app])
 
