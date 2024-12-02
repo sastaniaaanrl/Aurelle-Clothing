@@ -6,6 +6,7 @@ https://aurelle-clothing-update.vercel.app/
 ![Screenshot 2024-12-02 181400](https://github.com/user-attachments/assets/565ead96-165f-410d-9bdf-b11480ddbac0)
 ![Screenshot 2024-12-02 181416](https://github.com/user-attachments/assets/cd5288e8-af17-45a2-ab1f-0b77e164339a)
 ![Screenshot 2024-12-02 203521](https://github.com/user-attachments/assets/36b58863-4844-4160-9014-dfe8d2488c47)
+Payment ((Customer memasukkan harga secara manual, sesuai dengan harga barang yang ingin dibeli. Pembayaran minimal Rp87.000))
 ![Screenshot 2024-12-02 181444](https://github.com/user-attachments/assets/2cfb74b6-3bc0-4ddb-bb9c-e9e8dbda8d15)
 ![Screenshot 2024-12-02 181509](https://github.com/user-attachments/assets/78726f1b-41a6-490f-a4b1-d5cc242a7515)
 ![Screenshot 2024-12-02 181521](https://github.com/user-attachments/assets/8e23d52b-90fd-4447-a681-67ffe2766c6c)
