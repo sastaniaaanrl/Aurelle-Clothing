@@ -12,8 +12,21 @@ https://aurelle-clothing-update.vercel.app/
 ![Screenshot 2024-12-02 181550](https://github.com/user-attachments/assets/af197226-42d4-4bba-a734-f3a04b1d2329)
 ![Screenshot 2024-12-02 181600](https://github.com/user-attachments/assets/f19506f3-84d0-44e3-bf18-0e176167c898)
 
-3. Bagian Tops
+2. Bagian Tops
 ![Screenshot 2024-12-02 182058](https://github.com/user-attachments/assets/4d866e20-cdc7-4346-804e-85fa6c6d36c2)
 ![Screenshot 2024-12-02 182152](https://github.com/user-attachments/assets/e03921d0-c2bf-4723-b1f5-8aad75876b39)
 ![Screenshot 2024-12-02 182202](https://github.com/user-attachments/assets/da2e4940-3fa4-433e-970f-35a933c717cc)
 
+3. Skirts
+![Screenshot 2024-12-02 182736](https://github.com/user-attachments/assets/52a1af2a-7f41-4b6e-a31e-5c1fc0edfec2)
+![Screenshot 2024-12-02 182749](https://github.com/user-attachments/assets/5648bb59-5ebc-4e93-b944-ca0d0ea2781b)
+![Screenshot 2024-12-02 182202](https://github.com/user-attachments/assets/da2e4940-3fa4-433e-970f-35a933c717cc)
+
+4. Dress
+![Screenshot 2024-12-02 183000](https://github.com/user-attachments/assets/83628a8a-0aef-4cb7-9e74-64ce5a858984)
+![Screenshot 2024-12-02 183012](https://github.com/user-attachments/assets/ec82bc50-f88e-4196-bd84-5565e5263156)
+![Screenshot 2024-12-02 182202](https://github.com/user-attachments/assets/da2e4940-3fa4-433e-970f-35a933c717cc) 
+
+5. Contact Us
+![Screenshot 2024-12-02 183135](https://github.com/user-attachments/assets/96c8893e-825d-4476-8b91-ff59a82b6302)
+![Screenshot 2024-12-02 183154](https://github.com/user-attachments/assets/11e2e726-9fa9-4bda-b9c6-29fff683df56)
